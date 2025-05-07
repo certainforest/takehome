@@ -16,5 +16,6 @@ pip install datasets
 pip install scikit-learn
 pip install seaborn
 pip install fastparquet
+pip install streamlit
 # pip install umap-learn
 # pip install --extra-index-url=https://pypi.nvidia.com "cudf-cu12==25.4.*" "cuml-cu12==25.4.*"
